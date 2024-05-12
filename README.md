@@ -1,3 +1,7 @@
+# This is an upload of the addon so that people still have access to it. The software itself belongs to the original authors.
+
+---
+
 f(-_-;)   --==Roleplaying Helper==--   (^o^)/
 
 Version: 0.90
